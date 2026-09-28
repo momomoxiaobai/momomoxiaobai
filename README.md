@@ -1,23 +1,10 @@
 # Hi, I'm Yanjie Liang (梁延杰) 👋
 
-<p>
-  <a href="https://github.com/momomoxiaobai"><img src="https://img.shields.io/badge/GitHub-momomoxiaobai-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="mailto:mxiaobai10@163.com"><img src="https://img.shields.io/badge/Email-mxiaobai10@163.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/AIGeeksGroup/PresentAgent"><img src="https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent?style=flat&logo=github&label=PresentAgent" alt="PresentAgent stars"></a>
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=momomoxiaobai&label=Profile%20Views&color=0e75b6&style=flat)
 
 LLM Algorithm Engineer at **ByteDance**. I work on large language models and multimodal agents.
 
-```python
-interests = [
-    "LLM",
-    "RL Post-Training",
-    "Pre-training Model Evals / Benchmark Construction",
-    "Agent Benchmark",
-    "LLM-based Agents",
-    "Multimodal LLM & Document Intelligence",
-]
-```
+LLM · RL Post-Training · Pre-training Model Evals / Benchmark Construction · Agent Benchmark · LLM-based Agents · Multimodal LLM & Document Intelligence
 
 ---
 
@@ -32,7 +19,7 @@ interests = [
   *EMNLP 2025 (System Demonstrations), CCF-B*
   · [[Paper]](https://aclanthology.org/2025.emnlp-demos.58/)
   · [[arXiv]](https://arxiv.org/abs/2507.04036)
-  · [[Code ⭐140+]](https://github.com/AIGeeksGroup/PresentAgent)
+  · [[Code]](https://github.com/AIGeeksGroup/PresentAgent)
   · [[Dataset]](https://huggingface.co/datasets/AIGeeksGroup/Doc2Present)
 
 - **MTAD: A Three-Stage Framework for Machine Translation Agents Distillation** <br>
@@ -64,7 +51,7 @@ interests = [
 
 - **EvioSum: An Evidence-Guided Generation Framework for Faithful and Interpretable Opinion Summarization** <br>
   Jian Wang, **Yanjie Liang**, Yuqing Sun, Xin Li <br>
-  *Findings of ACL 2026, CCF-A*
+  *WSDM 2026, CCF-A*
   · [[ACM]](https://dl.acm.org/doi/10.1145/3773966.3777962)
 
 <!-- TODO: 下面两篇实习期间的在投论文，补齐作者与链接后把注释去掉
@@ -82,66 +69,16 @@ interests = [
 
 ## 📰 News
 
-- **[2026.07]** 🎉 Two papers accepted: **Infinity-Parser** and **EvioSum** to *Findings of ACL 2026*.
+- **[2026.07]** 🎉 **Infinity-Parser** accepted to *Findings of ACL 2026*.
+- **[2026]** 🎉 **EvioSum** accepted to *WSDM 2026*.
 - **[2025.11]** 🎉 **PresentAgent** and **Inducing Argument Facets** accepted to *EMNLP 2025* (Demo + Findings).
 - **[2025.08]** 🎉 **ALSA** accepted to *KDD 2025*.
-- **[2025.06]** 🚀 **PresentAgent** code and the **Doc2Present** dataset are open-sourced.
-
----
-
-## 🔬 Research
-
-<details open>
-<summary><b>PresentAgent</b> — Document-to-Presentation-Video Generation</summary>
-
-We introduce the new task of automatically generating a structured slide video with narration from long
-documents. **PresentAgent** is a modular framework that covers document parsing, layout-aware slide
-construction, script writing and audio-visual synchronization, enabling controllable and interpretable
-video generation. We further propose **PresentEval**, a VLM-driven multi-dimensional evaluation protocol
-that scores generated videos along content, visual and comprehension axes, together with an open-source
-high-quality benchmark.
-
-</details>
-
-<details>
-<summary><b>Infinity-Parser</b> — Layout-Aware RL for Scanned Document Parsing</summary>
-
-**layoutRL** is an end-to-end reinforcement learning framework that optimizes a composite reward over
-normalized edit distance, paragraph-count accuracy and reading-order preservation, so the model learns to
-explicitly perceive layout. Built on **Infinity-Doc-55K** and plugged into the vision-language parser
-Infinity-Parser, it reaches SoTA accuracy and structural fidelity on Chinese/English OCR, table and formula
-extraction and reading-order detection — surpassing GPT-4o and Qwen2.5-VL-72B.
-
-</details>
-
-<details>
-<summary><b>Translation Agents</b> — MMM / MTAD</summary>
-
-We systematize the LQA (translation quality assessment) paradigm and build the **AILQA Agent**, which
-leverages LLMs for efficient and accurate evaluation while greatly reducing human annotation cost. On top
-of it, **MMMTrans Agent** forms a closed loop of *initial translation → autonomous LQA → quality refinement*.
-**MTAD** takes this further with a three-stage distillation framework: distill AILQA → distill TransAgent →
-use the distilled LQA model as the reward model for GRPO.
-
-</details>
-
-<details>
-<summary><b>Privacy-Preserving & Faithful Generation</b> — ALSA / opinion summarization</summary>
-
-**ALSA** is a context-sensitive prompt privacy preservation framework: a three-dimensional scoring mechanism
-(PLRS / CIIS / TRS) dynamically quantifies how replaceable and how private each token in a prompt is, and
-clustering then determines the anonymization action (keep / replace / encrypt / delete) per span, balancing
-privacy, semantics and task relevance. On the summarization side, I work on RL-based prompt calibration
-(ECAI 2024), argument-facet-guided faithful summarization (EMNLP Findings 2025) and evidence-guided
-interpretable summarization (EvioSum, ACL Findings 2026).
-
-</details>
 
 ---
 
 ## 🚀 Open Source
 
-- **[AIGeeksGroup/PresentAgent](https://github.com/AIGeeksGroup/PresentAgent)** ⭐ 140+ — official code and demo for our EMNLP 2025 demo paper, with the **Doc2Present** dataset released on [Hugging Face](https://huggingface.co/datasets/AIGeeksGroup/Doc2Present).
+- **[AIGeeksGroup/PresentAgent](https://github.com/AIGeeksGroup/PresentAgent)** — official code and demo for our EMNLP 2025 demo paper, with the **Doc2Present** dataset released on [Hugging Face](https://huggingface.co/datasets/AIGeeksGroup/Doc2Present).
 - **[infly-ai/INF-MLLM](https://github.com/infly-ai/INF-MLLM)** ⭐ 250+ — open-source multimodal LLMs for SOTA visual-language understanding and advanced document intelligence; developed during my internship at Infinigence AI (无限光年), where the layout-aware parsing work above was born.
 
 ---
@@ -170,7 +107,7 @@ interpretable summarization (EvioSum, ACL Findings 2026).
 
 ## 📫 Contact
 
-- **Email:** mxiaobai10@163.com
+- **Email:** yanjieliang88@gmail.com
 - **GitHub:** [@momomoxiaobai](https://github.com/momomoxiaobai)
 - **Website / Blog:** [momomoxiaobai.github.io](https://momomoxiaobai.github.io)
 
