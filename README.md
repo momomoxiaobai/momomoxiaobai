@@ -14,7 +14,7 @@ LLM Algorithm Engineer at **ByteDance**. I work on pre-training model evaluation
 - 🧠 **LLM** — post-training & multimodal large models
 - ⚡ **RL Post-Training** — PPO / GRPO / DPO, reward modeling
 - 📊 **Pre-training Model Evals & Benchmark Construction** — agent benchmarks, LLM-as-a-Judge
-- 🔒 **AI Data Safety & Security** — prompt privacy preservation, anonymization
+- 🔒 **AI Data Safety & Security**
 
 ---
 
