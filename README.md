@@ -7,13 +7,14 @@
 ![Co-first Author](https://img.shields.io/badge/Co--first_Author-2-orange?style=flat)
 ![PresentAgent Stars](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent?style=flat&label=PresentAgent&color=yellow)
 
-LLM Algorithm Engineer at **ByteDance**. I work on large language models and multimodal agents.
+LLM Algorithm Engineer at **ByteDance**. I work on pre-training model evaluation and AI data security.
 
 ### 🎯 Research Interests
 
-- 🧠 **LLM** — pretraining, post-training & multimodal large models
+- 🧠 **LLM** — post-training & multimodal large models
 - ⚡ **RL Post-Training** — PPO / GRPO / DPO, reward modeling
 - 📊 **Pre-training Model Evals & Benchmark Construction** — agent benchmarks, LLM-as-a-Judge
+- 🔒 **AI Data Safety & Security** — prompt privacy preservation, anonymization
 
 ---
 
