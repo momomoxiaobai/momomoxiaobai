@@ -7,7 +7,7 @@
 ![Co-first Author](https://img.shields.io/badge/Co--first_Author-2-orange?style=flat)
 ![PresentAgent Stars](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent?style=flat&label=PresentAgent&color=yellow)
 
-LLM Algorithm Engineer at **ByteDance**. I work on pre-training model evaluation and AI data security.
+I'm LLM Algorithm Engineer at **ByteDance**. I work on pre-training model evaluation and AI data security.
 
 ### 🎯 Research Interests
 
