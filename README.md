@@ -9,7 +9,11 @@
 
 LLM Algorithm Engineer at **ByteDance**. I work on large language models and multimodal agents.
 
-LLM · RL Post-Training · Pre-training Model Evals / Benchmark Construction
+### 🎯 Research Interests
+
+- 🧠 **LLM** — pretraining, post-training & multimodal large models
+- ⚡ **RL Post-Training** — PPO / GRPO / DPO, reward modeling
+- 📊 **Pre-training Model Evals & Benchmark Construction** — agent benchmarks, LLM-as-a-Judge
 
 ---
 
