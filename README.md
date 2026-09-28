@@ -2,6 +2,11 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=momomoxiaobai&label=Profile%20Views&color=0e75b6&style=flat)
 
+![Publications](https://img.shields.io/badge/Publications-7-2ea44f?style=flat)
+![CCF-A Papers](https://img.shields.io/badge/CCF--A_Papers-2-8A2BE2?style=flat)
+![Co-first Author](https://img.shields.io/badge/Co--first_Author-2-orange?style=flat)
+![PresentAgent Stars](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent?style=flat&label=PresentAgent&color=yellow)
+
 LLM Algorithm Engineer at **ByteDance**. I work on large language models and multimodal agents.
 
 LLM · RL Post-Training · Pre-training Model Evals / Benchmark Construction
@@ -9,8 +14,6 @@ LLM · RL Post-Training · Pre-training Model Evals / Benchmark Construction
 ---
 
 ## 📄 Publications
-
-> `*` denotes equal contribution. ***Bold italic*** denotes my name.
 
 ### 🥇 First / Co-first Author
 
