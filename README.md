@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=momomoxiaobai&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Publications](https://img.shields.io/badge/Publications-7-2ea44f?style=flat)
+![Publications](https://img.shields.io/badge/Publications-8-2ea44f?style=flat)
 ![CCF-A Papers](https://img.shields.io/badge/CCF--A_Papers-2-8A2BE2?style=flat)
 ![Co-first Author](https://img.shields.io/badge/Co--first_Author-2-orange?style=flat)
 ![PresentAgent Stars](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent?style=flat&label=PresentAgent&color=yellow)
@@ -61,6 +61,12 @@ I'm LLM Algorithm Engineer at **ByteDance**. I work on pre-training model evalua
   Jian Wang, ***Yanjie Liang***, Yuqing Sun, Xin Li <br>
   *WSDM 2026, CCF-B*
   · [[ACM]](https://dl.acm.org/doi/10.1145/3773966.3777962)
+
+- **Distributed Privacy-Preserving Reinforcement Learning via Sparse Matrix Encryption for IoT** <br>
+  Tong Ji, ***Yanjie Liang***, Yunting Tao, Fanyu Kong, Chunpeng Ge, Baodong Qin, Jia Yu <br>
+  *IEEE Internet of Things Journal (IoT-J)* — JCR Q1 / IF 8.7
+  · [[IEEE]](https://ieeexplore.ieee.org/document/11271503)
+  · [[DOI]](https://doi.org/10.1109/JIOT.2025.3638777)
 
 <!-- TODO: 下面两篇实习期间的在投论文，补齐作者与链接后把注释去掉
 ### 📝 Under Review
