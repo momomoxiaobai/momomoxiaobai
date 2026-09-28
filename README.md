@@ -10,12 +10,12 @@ LLM · RL Post-Training · Pre-training Model Evals / Benchmark Construction
 
 ## 📄 Publications
 
-> `*` denotes equal contribution. *Italic* denotes my name.
+> `*` denotes equal contribution. ***Bold italic*** denotes my name.
 
 ### 🥇 First / Co-first Author
 
 - **PresentAgent: Multimodal Agent for Presentation Video Generation** <br>
-  Jingwei Shi\*, Zeyu Zhang\*, Biao Wu\*, *Yanjie Liang*\*, Meng Fang, Ling Chen, Yang Zhao <br>
+  Jingwei Shi\*, Zeyu Zhang\*, Biao Wu\*, ***Yanjie Liang***\*, Meng Fang, Ling Chen, Yang Zhao <br>
   *EMNLP 2025 (System Demonstrations), CCF-B*
   · [[Paper]](https://aclanthology.org/2025.emnlp-demos.58/)
   · [[arXiv]](https://arxiv.org/abs/2507.04036)
@@ -23,34 +23,34 @@ LLM · RL Post-Training · Pre-training Model Evals / Benchmark Construction
   · [[Dataset]](https://huggingface.co/datasets/AIGeeksGroup/Doc2Present)
 
 - **MTAD: A Three-Stage Framework for Machine Translation Agents Distillation** <br>
-  Xuanbo Guo\*, *Yanjie Liang*\*, Jianxiang Zhou, Baqun Sun, Ke Wang <br>
+  Xuanbo Guo\*, ***Yanjie Liang***\*, Jianxiang Zhou, Baqun Sun, Ke Wang <br>
   *ICASSP 2026, CCF-B*
   · [[IEEE]](https://ieeexplore.ieee.org/document/11462599)
 
 ### 🥈 Co-author
 
 - **Infinity-Parser: Layout-Aware Reinforcement Learning for Scanned Document Parsing** <br>
-  Baode Wang, Biao Wu, Weizhen Li, Meng Fang, Zuming Huang, Jun Huang, *Yanjie Liang*, Haozhe Wang, Ling Chen, Wei Chu, Yuan Qi <br>
+  Baode Wang, Biao Wu, Weizhen Li, Meng Fang, Zuming Huang, Jun Huang, ***Yanjie Liang***, Haozhe Wang, Ling Chen, Wei Chu, Yuan Qi <br>
   *Findings of ACL 2026, CCF-A*
   · [[Paper]](https://aclanthology.org/2026.findings-acl.82/)
   · [[PDF]](https://aclanthology.org/2026.findings-acl.82.pdf)
 
 - **Inducing Argument Facets for Faithful Opinion Summarization** <br>
-  Jian Wang, *Yanjie Liang*, Yuqing Sun, Bin Gong <br>
+  Jian Wang, ***Yanjie Liang***, Yuqing Sun, Bin Gong <br>
   *Findings of EMNLP 2025, CCF-B*
   · [[Paper]](https://aclanthology.org/2025.findings-emnlp.876/)
 
 - **ALSA: Context-Sensitive Prompt Privacy Preservation in Large Language Models** <br>
-  Hongru Ma, Wenpeng Lu, *Yanjie Liang*, Tianyi Wang, Qi Zhang, Yingjie Zhu, Jiasheng Si <br>
+  Hongru Ma, Wenpeng Lu, ***Yanjie Liang***, Tianyi Wang, Qi Zhang, Yingjie Zhu, Jiasheng Si <br>
   *KDD 2025, CCF-A*
   · [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3736840)
 
 - **Iteratively Calibrating Prompts for Unsupervised Diverse Opinion Summarization** <br>
-  Jian Wang, *Yanjie Liang*, Yuqing Sun, Xin Li <br>
+  Jian Wang, ***Yanjie Liang***, Yuqing Sun, Xin Li <br>
   *ECAI 2024, CCF-B*
 
 - **EvioSum: An Evidence-Guided Generation Framework for Faithful and Interpretable Opinion Summarization** <br>
-  Jian Wang, *Yanjie Liang*, Yuqing Sun, Xin Li <br>
+  Jian Wang, ***Yanjie Liang***, Yuqing Sun, Xin Li <br>
   *WSDM 2026, CCF-B*
   · [[ACM]](https://dl.acm.org/doi/10.1145/3773966.3777962)
 
