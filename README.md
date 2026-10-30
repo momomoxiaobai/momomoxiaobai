@@ -9,6 +9,8 @@
 
 I'm LLM Algorithm Engineer at **ByteDance**. I work on pre-training model evaluation and AI data security.
 
+📝 **Paper Radar:** [Daily LLM / Agent / RL paper notes](https://momomoxiaobai.github.io/paper-radar/)
+
 ### 🎯 Research Interests
 
 - 🧠 **LLM** — post-training & multimodal large models
